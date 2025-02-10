@@ -6,7 +6,6 @@ Users can create a capsule, set an unlock date, and preserve special moments sec
 
 ## 🚀 Features
 - 📅 **Schedule messages & files** for future delivery  
-- 🔒 **Secure storage** with encryption  
-- 📩 **Email reminders** when the capsule is ready  
+- 🔒 **Secure storage** with encryption    
 - 🌍 **Share capsules** with family & friends  
 
